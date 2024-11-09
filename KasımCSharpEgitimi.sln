@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giris", "Giris\Giris.csproj", "{A29E2869-4B8A-4244-8AFF-CAEF247ACB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu01Degiskenler", "Konu01Degiskenler\Konu01Degiskenler.csproj", "{5E7676DE-A02C-4BF4-BEBF-313D13AC4DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu02TipDonusumleri", "Konu02TipDonusumleri\Konu02TipDonusumleri.csproj", "{4C9906D2-AC45-4DC2-8B8D-E97DFE780A34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu03Operatorler", "Konu03Operatorler\Konu03Operatorler.csproj", "{8217F794-DF20-4E82-95F8-52D753015711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29E2869-4B8A-4244-8AFF-CAEF247ACB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29E2869-4B8A-4244-8AFF-CAEF247ACB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29E2869-4B8A-4244-8AFF-CAEF247ACB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29E2869-4B8A-4244-8AFF-CAEF247ACB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7676DE-A02C-4BF4-BEBF-313D13AC4DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7676DE-A02C-4BF4-BEBF-313D13AC4DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7676DE-A02C-4BF4-BEBF-313D13AC4DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7676DE-A02C-4BF4-BEBF-313D13AC4DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9906D2-AC45-4DC2-8B8D-E97DFE780A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9906D2-AC45-4DC2-8B8D-E97DFE780A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9906D2-AC45-4DC2-8B8D-E97DFE780A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9906D2-AC45-4DC2-8B8D-E97DFE780A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8217F794-DF20-4E82-95F8-52D753015711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8217F794-DF20-4E82-95F8-52D753015711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8217F794-DF20-4E82-95F8-52D753015711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8217F794-DF20-4E82-95F8-52D753015711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E41E7B17-B7D1-45DE-8D18-2DD539179946}
+	EndGlobalSection
+EndGlobal
